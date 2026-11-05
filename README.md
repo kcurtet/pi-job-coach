@@ -15,14 +15,16 @@ La skill `job-coach` se descubre automáticamente en este directorio. Arranca co
 
 ## Estructura
 
-| Ruta | Qué es |
-|---|---|
-| `.pi/skills/job-coach/SKILL.md` | El coach: persona, diagnóstico, búsqueda, embudo, entrevistas |
-| `data/perfil.md` | Perfil de candidato (lo escribe la primera sesión) |
-| `data/applications.json` | Tracker de candidaturas — fuente de verdad del embudo |
-| `data/acuerdos.md` | Tareas con plazo de cada sesión + historial |
-| `docs/` | Diagnóstico e informes de embudo |
-| `cv/` | CV fuente, versiones por rol y cartas |
+Lo publicado en GitHub es solo la skill (genérica y reutilizable). Los datos personales viven en local, fuera del git (`.gitignore`):
+
+| Ruta | Qué es | En git |
+|---|---|---|
+| `.pi/skills/job-coach/SKILL.md` | El coach: persona, diagnóstico, búsqueda, embudo, entrevistas | sí |
+| `data/perfil.md` | Perfil de candidato (lo escribe la primera sesión) | no |
+| `data/applications.json` | Tracker de candidaturas — fuente de verdad del embudo | no |
+| `data/acuerdos.md` | Tareas con plazo de cada sesión + historial | no |
+| `docs/` | Diagnóstico e informes de embudo | no |
+| `cv/` | CV fuente, versiones por rol y cartas | no |
 
 ## Fuentes de ofertas
 
