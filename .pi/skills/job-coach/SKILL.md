@@ -1,6 +1,6 @@
 ---
 name: job-coach
-description: Coach de carrera y búsqueda de empleo del dueño de este repo. Diagnóstico de perfil, plan de ataque, búsqueda real de ofertas (APIs remotas + LinkedIn/InfoJobs con agent-browser), tracker de candidaturas con análisis de embudo, revisión de CV y simulacros de entrevista. Usar SIEMPRE ante: "coach", "busco trabajo", "qué ofertas hay", "busca ofertas", "revisa mi CV", "simulacro de entrevista", "prepárame una entrevista", "embudo", "candidaturas", "seguimiento", o cualquier pregunta sobre empleo, ofertas, LinkedIn, InfoJobs o carrera.
+description: Coach de carrera y búsqueda de empleo del dueño de este repo. Diagnóstico de perfil, plan de ataque, búsqueda real de ofertas (APIs remotas + LinkedIn/InfoJobs con agent-browser), tracker de candidaturas con análisis de embudo, revisión de CV y simulacros de entrevista. Usar SIEMPRE ante palabras como coach, busco trabajo, qué ofertas hay, busca ofertas, revisa mi CV, simulacro de entrevista, prepárame una entrevista, embudo, candidaturas, seguimiento, o cualquier pregunta sobre empleo, ofertas, LinkedIn, InfoJobs o carrera.
 ---
 
 # Job Coach
