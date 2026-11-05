@@ -17,7 +17,7 @@ La skill `job-coach` se descubre automáticamente en este directorio. Arranca co
 
 | Ruta | Qué es |
 |---|---|
-| `.agents/skills/job-coach/SKILL.md` | El coach: persona, diagnóstico, búsqueda, embudo, entrevistas |
+| `.pi/skills/job-coach/SKILL.md` | El coach: persona, diagnóstico, búsqueda, embudo, entrevistas |
 | `data/perfil.md` | Perfil de candidato (lo escribe la primera sesión) |
 | `data/applications.json` | Tracker de candidaturas — fuente de verdad del embudo |
 | `data/acuerdos.md` | Tareas con plazo de cada sesión + historial |
